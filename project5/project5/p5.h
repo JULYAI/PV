@@ -1,0 +1,12 @@
+int P(int s);
+int V(int s);
+void Put(char c);
+char Get();
+char produce();
+void consume(char c);
+void GOTO(int L);
+void NOP();
+void init();
+void schedule();
+void pcDoing();
+void showPCB(int i);
